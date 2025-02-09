@@ -1,0 +1,16 @@
+streamlit
+azure-ai-formrecognizer==3.3.0
+openpyxl
+pandas
+msal
+azure-identity
+requests
+azure-cli
+pyyaml
+#-----Test with pdfplumber--------#
+pdfplumber
+#-----Test with OpenCV--------#
+opencv-python
+numpy
+pdf2image
+pytesseract
