@@ -60,7 +60,7 @@ sequenceDiagram
 
 1. Start the application:
    ```bash
-   streamlit run src/pdf_extractor_app_original_2.py
+   python -m streamlit run src/pdf_extractor_app_original_2.py
    ```
 
 2. Upload PDF and Process:
