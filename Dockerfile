@@ -26,7 +26,7 @@ ENV STREAMLIT_SERVER_PORT=8501
 ENV STREAMLIT_SERVER_ADDRESS=0.0.0.0
 
 # Command to run the application
-CMD ["streamlit", "run", "src/pdf_extractor_app_original_2.py"]
+CMD ["streamlit", "run", "src/pdfreader.py"]
 
 #Commands to build Image
 # docker build -t pdf-extractor .
