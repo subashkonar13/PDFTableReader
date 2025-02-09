@@ -18,18 +18,12 @@ graph TD
 
 ## Module Description
 
-### 1. PDF Extractor App (`src/pdfreader.py`)
+### PDF Extractor App (`src/pdfreader.py`)
 Main application entry point with Streamlit UI components:
 - Handles file upload
 - Provides configuration interface
 - Manages PDF processing workflow
 - Displays results and downloads
-
-### 2. PDF Processor (`src/pdf/pdf_processor.py`)
-Core PDF processing module:
-- Interfaces with Azure Document Intelligence
-- Extracts tables from PDFs
-- Generates Excel output
 
 
 ## Execution Flow
