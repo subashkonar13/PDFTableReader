@@ -1,4 +1,4 @@
-# PDFTablereader
+# PDF Table Reader
 
 
 A Python application that extracts tables from PDF files using Azure Document Intelligence (Form Recognizer) and generates structured schema files.
