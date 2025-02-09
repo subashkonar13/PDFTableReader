@@ -27,15 +27,6 @@ Main application entry point with Streamlit UI components:
 
 ### 2. PDF Processor (`src/pdf/pdf_processor.py`)
 Core PDF processing module:
-```mermaid
-classDiagram
-    class PDFProcessor {
-        +process_pdf(file)
-        +create_excel(tables)
-        -endpoint: str
-        -key: str
-    }
-```
 - Interfaces with Azure Document Intelligence
 - Extracts tables from PDFs
 - Generates Excel output
