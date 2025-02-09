@@ -66,7 +66,7 @@ sequenceDiagram
 2. Upload PDF and Process:
    - Upload PDF file
    - Click "Process PDF"
-   - Download Excel and/or YAML schema
+   - Download Excel
 
 
 ## Error Handling
