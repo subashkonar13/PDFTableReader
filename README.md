@@ -31,7 +31,6 @@ Core PDF processing module:
 - Extracts tables from PDFs
 - Generates Excel output
 
-```
 
 ## Execution Flow
 
