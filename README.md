@@ -42,7 +42,7 @@ sequenceDiagram
 
 1. **Prerequisites**
    - Python >= 3.10
-   - Docker (optional)
+   - Docker Desktop(optional)
    - Azure Document Intelligence service
 
 2. **Environment Setup**
