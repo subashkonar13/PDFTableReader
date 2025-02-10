@@ -32,7 +32,6 @@ Main application entry point with Streamlit UI components:
 ```mermaid
 sequenceDiagram
     User->>Streamlit UI: Upload PDF
-    User->>Streamlit UI: Configure Schema Settings
     Streamlit UI->>PDFProcessor: Process PDF
     PDFProcessor->>Azure AI: Send PDF
     Azure AI->>PDFProcessor: Return Tables
