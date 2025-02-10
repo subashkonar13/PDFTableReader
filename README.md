@@ -42,7 +42,8 @@ sequenceDiagram
 1. **Prerequisites**
    - Python >= 3.10
    - Docker Desktop(optional)
-   - Azure Document Intelligence service
+   - Azure Subscription
+   - Azure Document Intelligence Key and Endpoint
 
 2. **Environment Setup**
    ```bash
